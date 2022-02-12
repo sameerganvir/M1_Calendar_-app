@@ -7,10 +7,15 @@ The screen displays the required calendar.
 #4Ws and 1H
 
 WHO: Business professionals, Students, etc. can use this app.
+
 WHAT: This app is used to determine the Dates, Day, Month, and Year.
+
 WHEN: To be informed about and to record an event that has happened.
+
 WHERE: The use can be on any mobile application or other suitable means.
+
 WHY: To get updated with the special events and know about the importatnt dates.
+
 
 HOW: Just by entering the year and the number of months user will able to see the calendar. 
 
