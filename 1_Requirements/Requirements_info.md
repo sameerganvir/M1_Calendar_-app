@@ -20,11 +20,15 @@ WHY: To get updated with the special events and know about the importatnt dates.
 HOW: Just by entering the year and the number of months user will able to see the calendar. 
 
 #REQUIREMENTS:
+
 High level requirements:
-	Required calendar is displayed on the screen as per the user's choice.
-	Accurate calendar is displayed.
+
+Required calendar is displayed on the screen as per the user's choice.
+Accurate calendar is displayed.
+
 Low level requirements:
-	System takes the year and the number of month as the input from the user.
+
+System takes the year and the number of month as the input from the user.
 		
 #SWOT![Champagne and Orange Simple Modern Analyst Swot Graph](https://user-images.githubusercontent.com/42490038/153709388-2c548f24-6c11-4eb8-8a54-36b20cc993ae.jpg)
 
