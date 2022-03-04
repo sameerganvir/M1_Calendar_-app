@@ -3,3 +3,4 @@
 ![CodigaBadeges](https://api.codiga.io/project/31275/score/svg)
 ![CodigaBadeges](https://api.codiga.io/project/31275/status/svg)
 [![Codeac](https://static.codeac.io/badges/2-456339137.svg "Codeac")](https://app.codeac.io/github/sameerganvir/M1_Calendar_-app)
+[![C/C++ CI](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/c-cpp.yml)
