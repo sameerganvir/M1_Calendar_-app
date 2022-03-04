@@ -1,4 +1,4 @@
-name: Dynamiccheck
+name: Build-Linux
 
 on:
   push:
