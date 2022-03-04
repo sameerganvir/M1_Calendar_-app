@@ -1,3 +1,4 @@
+
 name: Dynamiccheck
 
 on:
@@ -13,5 +14,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make run
-      run: make run -C 3_Implementation
+    - name: make build
+      run: make build -C 3_Implementation
