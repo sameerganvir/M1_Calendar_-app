@@ -15,6 +15,9 @@ endif
 
 build:
 	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	
+build_test : 
+	gcc $(TEST_SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
