@@ -7,3 +7,16 @@
 [![Build-Linux](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Build-Linux.yml)
 [![unity](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/unity.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/unity.yml)
 [![Dynamiccheck](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Dynamic-check.yml)
+
+
+
+# Contents
+| Folders | Discription |
+| ------- | ----------- |
+| 0_certificates | Certifications of project |
+| 1_Requirements | Description, Requirements, 4Ws and 1H, SWOT analysis |
+| 2_Architecture | UML diagrams (structural and behavioural diagram) |
+| 3_Implementation | Code and Documentation |
+| 4_TestPlanAndOutput | Output and test plan |
+| 5_Others | References |
+| 6_Report | Reports |
