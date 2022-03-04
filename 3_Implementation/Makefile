@@ -21,6 +21,9 @@ build_test :
 
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+	
+run_test : build_test
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 clean:
 	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
