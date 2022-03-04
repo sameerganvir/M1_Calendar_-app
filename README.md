@@ -6,3 +6,4 @@
 [![C/C++ CI](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/c-cpp.yml)
 [![Build-Linux](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Build-Linux.yml)
 [![unity](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/unity.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/unity.yml)
+[![Dynamiccheck](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/sameerganvir/M1_Calendar_-app/actions/workflows/Dynamic-check.yml)
